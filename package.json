@@ -1,0 +1,15 @@
+{
+	"name" : "bank-microservice",
+	"version" : "1.0.0",
+	"description" : "Node finance example",
+	"scripts" : {
+		"test" : "echo \"Error: no test specified\" && exit 1"
+	},
+	"authors" : [
+	],
+	"license" : "proprietary",
+	"dependencies" : {
+		"express" : "~4.14.0",
+		"lodash": "~2.4.1"
+	}
+}
